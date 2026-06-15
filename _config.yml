@@ -1,1 +1,27 @@
-test
+# Welcome to Jekyll!
+locale: "en-US"
+site_theme: "default"
+title: "Junteng Liu / Homepage"
+title_separator: "-"
+name: "Junteng Liu"
+description: "Junteng Liu's academic homepage"
+url: "https://tooalthon-user-4-art.github.io/LJT-Homepage"
+repository: "tooalthon-user-4-art/LJT-Homepage"
+author:
+  avatar: "profile.png"
+  name: "Junteng Liu"
+  pronouns: "he/him"
+  bio: "First-year PhD candidate at HKUST NLP Group"
+  location: "Hong Kong"
+  employer: "Hong Kong University of Science and Technology"
+  email: "jliugi@connect.ust.hk"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  github: "Vicent0205"
+  twitter: "junteng88716710"
+twitter:
+  username: "junteng88716710"
+social:
+  type: Person
+  name: "Junteng Liu"
+  links:
+    - https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
