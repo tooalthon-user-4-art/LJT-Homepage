@@ -1,7 +1,7 @@
 ---
 title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-02-01-vlm-chart-understanding
 excerpt: 'Investigating the perception bottleneck in Vision-Language Models for chart understanding.'
 date: 2025-02-01
