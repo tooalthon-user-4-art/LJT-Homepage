@@ -45,8 +45,6 @@ I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023)
    - NeurIPS 2023
 
-For a complete and up-to-date list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
-
 ## Education
 
 - **Ph.D. in Computer Science** (2024 - Present)
