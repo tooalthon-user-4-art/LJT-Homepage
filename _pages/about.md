@@ -9,13 +9,13 @@ redirect_from:
 
 # About Me
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/HKUST-NLP), supervised by [Professor Junxian He](https://cse.hkust.edu.hk/~jxhe/). My research focuses on **Natural Language Processing** and **Machine Learning**, with particular interests in:
+I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junxian He. My research focuses on **Natural Language Processing** and **Machine Learning**, with particular interests in:
 
 - **LLM Reasoning and Reinforcement Learning**
 - **Hallucination in Vision-Language Models (VLM)**
 - **LLM Truthfulness and Interpretability**
 
-I graduated from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024 with a B.Eng. degree, where I was honored with the **Zhiyuan Honor Scholarship**.
+I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree, where I was honored with the **Zhiyuan Honor Scholarship**.
 
 ## Research Experience
 
@@ -72,4 +72,4 @@ For a complete and up-to-date list of my publications, please visit my [Google S
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 - **GitHub:** [Vicent0205](https://github.com/Vicent0205)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
+- **X (Twitter):** @junteng88716710
