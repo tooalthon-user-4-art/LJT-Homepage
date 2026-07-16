@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junteng Liu (LJT) - First-year PhD candidate at HKUST NLP Group"
+title: "Junteng Liu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -50,10 +50,10 @@ For a complete and up-to-date list of my publications, please visit my [Google S
 ## Education
 
 - **Ph.D. in Computer Science** (2024 - Present)
-  - Hong Kong University of Science and Technology (HKUST)
+  - Hong Kong University of Science and Technology
 
 - **B.Eng.** (2020 - 2024)
-  - Shanghai Jiao Tong University (SJTU)
+  - Shanghai Jiao Tong University
 
 ## Contact
 
