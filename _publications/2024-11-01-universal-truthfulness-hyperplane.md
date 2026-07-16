@@ -7,7 +7,7 @@ excerpt: 'Discovering the universal truthfulness hyperplane inside large languag
 date: 2024-11-01
 venue: 'EMNLP 2024'
 authors: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He'
-citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</i>.'
+citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). "On the Universal Truthfulness Hyperplane Inside LLMs." Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024).'
 ---
 
 This work presents a novel discovery of a universal geometric structure within large language models that governs their truthfulness behavior. We demonstrate that LLM representations contain a hyperplane that effectively separates truthful from untruthful generations.
