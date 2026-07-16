@@ -37,15 +37,12 @@ I graduated from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)
    - Arxiv
-   - Code: [GitHub](https://github.com/Vicent0205/SynLogic)
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
    - Arxiv
-   - Code: [GitHub - Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024)
    - EMNLP 2024
-   - Code: [GitHub - Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 ### Co-Authored Publications
 
