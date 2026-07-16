@@ -3,16 +3,16 @@ title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for 
 collection: publications
 category: conferences
 permalink: /publication/2024-07-01-in-context-sharpness
-excerpt: 'Using in-context sharpness as alerts for hallucination mitigation from an inner representation perspective.'
+excerpt: 'Inner representation perspective for hallucination mitigation using in-context sharpness.'
 date: 2024-07-01
 venue: 'ICML 2024'
 authors: 'Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He'
-citation: 'Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. (2024). &quot;In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.&quot; <i>Proceedings of the 41st International Conference on Machine Learning (ICML 2024)</i>.'
+citation: 'Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. (2024). "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation." Proceedings of the 41st International Conference on Machine Learning (ICML 2024).'
 ---
 
-This work proposes a novel approach to detect and mitigate hallucinations in large language models by analyzing the sharpness of in-context representations. We demonstrate that monitoring representation sharpness can serve as an effective early warning system for potential hallucinations.
+This research presents an innovative approach to mitigating hallucinations in large language models by analyzing in-context sharpness from an inner representation perspective, providing early alerts for potential hallucinations.
 
 **Key Contributions:**
-- In-context sharpness as a hallucination detection metric
-- Inner representation perspective on LLM behavior
-- Effective mitigation strategies based on sharpness monitoring
+- Novel in-context sharpness metric for hallucination detection
+- Inner representation analysis framework
+- Effective hallucination mitigation strategy
