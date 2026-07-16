@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junteng Liu (LJT) - PhD Candidate in NLP at HKUST"
+title: "Junteng Liu (LJT) - First-year PhD candidate at HKUST NLP Group"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,13 +9,9 @@ redirect_from:
 
 # About Me
 
-I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junxian He. My research focuses on **Natural Language Processing** and **Machine Learning**, with particular interests in:
+I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning, with particular interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
 
-- **LLM Reasoning and Reinforcement Learning**
-- **Hallucination in Vision-Language Models (VLM)**
-- **LLM Truthfulness and Interpretability**
-
-I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree, where I was honored with the **Zhiyuan Honor Scholarship**.
+I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree, where I was honored with the Zhiyuan Honor Scholarship.
 
 ## Research Experience
 
@@ -24,12 +20,6 @@ I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng.
 - **MINIMAX** (February 2025 - Present)
 - **Tencent WXG** (June 2024 - September 2024) - Advisor: Zifei Shan
 - **Shanghai AI Lab** (June 2023 - December 2023) - Advisor: Prof. Yu Cheng
-
-## Skills
-
-- **Programming Languages:** Python, PyTorch
-- **Research Areas:** Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
-- **Domain Expertise:** LLM Reasoning, Truthfulness, Interpretability, Hallucination Detection and Mitigation
 
 ## Publications
 
@@ -61,15 +51,13 @@ For a complete and up-to-date list of my publications, please visit my [Google S
 
 - **Ph.D. in Computer Science** (2024 - Present)
   - Hong Kong University of Science and Technology (HKUST)
-  - HKUST NLP Group
 
 - **B.Eng.** (2020 - 2024)
   - Shanghai Jiao Tong University (SJTU)
-  - Zhiyuan Honor Scholarship Recipient
 
 ## Contact
 
-- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **Email:** jliugi@connect.ust.hk
 - **GitHub:** [Vicent0205](https://github.com/Vicent0205)
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 - **X (Twitter):** @junteng88716710
