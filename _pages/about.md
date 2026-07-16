@@ -25,6 +25,12 @@ I graduated from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/
 - **Tencent WXG** (June 2024 - September 2024) - Advisor: Zifei Shan
 - **Shanghai AI Lab** (June 2023 - December 2023) - Advisor: Prof. Yu Cheng
 
+## Skills
+
+- **Programming Languages:** Python, PyTorch
+- **Research Areas:** Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
+- **Domain Expertise:** LLM Reasoning, Truthfulness, Interpretability, Hallucination Detection and Mitigation
+
 ## Publications
 
 ### First-Author Publications
@@ -61,7 +67,7 @@ For a complete and up-to-date list of my publications, please visit my [Google S
   - HKUST NLP Group
 
 - **B.Eng.** (2020 - 2024)
-  - Shanghai Jiao Tong University (SJTU)
+  - Shanghai Jiao Tort University (SJTU)
   - Zhiyuan Honor Scholarship Recipient
 
 ## Contact
