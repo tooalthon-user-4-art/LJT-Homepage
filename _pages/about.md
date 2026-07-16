@@ -67,7 +67,7 @@ For a complete and up-to-date list of my publications, please visit my [Google S
   - HKUST NLP Group
 
 - **B.Eng.** (2020 - 2024)
-  - Shanghai Jiao Tort University (SJTU)
+  - Shanghai Jiao Tong University (SJTU)
   - Zhiyuan Honor Scholarship Recipient
 
 ## Contact
