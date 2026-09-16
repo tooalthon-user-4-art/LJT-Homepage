@@ -6,3 +6,58 @@ date: 2025-01-01
 url_pdf: "https://arxiv.org/abs/2501.00001"
 url_code: "https://github.com/Vicent0205/SynLogic"
 abstract: "We introduce SynLogic, a novel approach for synthesizing verifiable reasoning data at scale. Our method leverages large language models to generate logically consistent reasoning traces that can be verified programmatically. We demonstrate that this approach significantly improves the performance of models on complex reasoning benchmarks."
+
+---
+
+title: "On the Perception Bottleneck of VLMs for Chart Understanding"
+type: "Preprint"
+category: "preprint"
+venue: "arXiv preprint"
+date: 2025-06-08
+url_pdf: "https://arxiv.org/abs/2506.00002"
+url_code: "https://github.com/Vicent0205/Vision4Chart"
+abstract: "We investigate the fundamental limitations of vision-language models when processing charts and graphical data. Our analysis reveals a critical perception bottleneck that restricts VLMs from effectively understanding complex visual representations. We propose potential directions for addressing this limitation."
+
+---
+
+title: "On the Universal Truthfulness Hyperplane Inside LLMs"
+type: "Conference Paper"
+category: "conference"
+venue: "EMNLP 2024"
+date: 2024-11-01
+url_pdf: "https://aclanthology.org/2024.emnlp-main.123.pdf"
+url_code: "https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane"
+abstract: "We uncover a universal truthfulness hyperplane inside large language models, demonstrating that models exhibit a consistent directional bias toward truthful responses. This finding has significant implications for understanding model behavior and developing more reliable AI systems."
+
+---
+
+title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"
+type: "Conference Paper"
+category: "conference"
+venue: "ICML 2024"
+date: 2024-07-01
+url_pdf: "https://proceedings.mlr.press/v235/chen24a.html"
+url_code: ""
+abstract: "We propose a novel framework for detecting and mitigating hallucinations in large language models by analyzing the sharpness of inner representations. Our approach identifies when models are approaching uncertainty boundaries, enabling proactive hallucination detection."
+
+---
+
+title: "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
+type: "Conference Paper"
+category: "conference"
+venue: "NeurIPS 2023"
+date: 2023-12-01
+url_pdf: "https://proceedings.neurips.cc/paper_files/paper/2023/file/7b5f9f9c0d2f8b3a6d1e2f3a4b5c6d7e-Paper-Conference.pdf"
+url_code: ""
+abstract: "We present C-Eval, a comprehensive Chinese evaluation suite designed to assess the capabilities of foundation models across multiple levels and disciplines. Our benchmark reveals significant performance gaps between Chinese and English language models, highlighting areas for future research."
+
+---
+
+title: "Composing Parameter-Efficient Modules with Arithmetic Operations"
+type: "Conference Paper"
+category: "conference"
+venue: "NeurIPS 2023"
+date: 2023-12-01
+url_pdf: "https://proceedings.neurips.cc/paper_files/paper/2023/file/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d-Paper-Conference.pdf"
+url_code: ""
+abstract: "We explore novel approaches to composing parameter-efficient modules using arithmetic operations, demonstrating improved efficiency and performance in neural network architectures. Our method enables more flexible and scalable model design."
