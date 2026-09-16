@@ -1,0 +1,35 @@
+#######################################
+# Skills
+#######################################
+
+- name: "Natural Language Processing"
+  level: "Expert"
+  keyword: "NLP"
+
+- name: "Machine Learning"
+  level: "Expert"
+  keyword: "ML"
+
+- name: "Large Language Models"
+  level: "Expert"
+  keyword: "LLM"
+
+- name: "Reinforcement Learning"
+  level: "Advanced"
+  keyword: "RL"
+
+- name: "Vision-Language Models"
+  level: "Advanced"
+  keyword: "VLM"
+
+- name: "Hallucination Detection"
+  level: "Advanced"
+  keyword: "Hallucination"
+
+- name: "Interpretability"
+  level: "Advanced"
+  keyword: "Interpretability"
+
+- name: "Truthfulness"
+  level: "Advanced"
+  keyword: "Truthfulness"
