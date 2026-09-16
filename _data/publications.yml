@@ -1,0 +1,8 @@
+title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
+type: "Preprint"
+category: "preprint"
+venue: "arXiv preprint"
+date: 2025-01-01
+url_pdf: "https://arxiv.org/abs/2501.00001"
+url_code: "https://github.com/Vicent0205/SynLogic"
+abstract: "We introduce SynLogic, a novel approach for synthesizing verifiable reasoning data at scale. Our method leverages large language models to generate logically consistent reasoning traces that can be verified programmatically. We demonstrate that this approach significantly improves the performance of models on complex reasoning benchmarks."
