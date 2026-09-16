@@ -1,0 +1,15 @@
+##########
+# Education
+##########
+
+- date: "2024 - Present"
+  title: "PhD in Computer Science"
+  institution: "Hong Kong University of Science and Technology"
+  location: "Hong Kong"
+  description: "Research focuses on natural language processing and machine learning, with interests in LLM reasoning, reinforcement learning, VLM hallucination, and LLM truthfulness/interpretability."
+
+- date: "2020 - 2024"
+  title: "B.Eng. in Computer Science"
+  institution: "Shanghai Jiao Tong University"
+  location: "Shanghai, China"
+  description: "Received the Zhiyuan Honor Scholarship."
