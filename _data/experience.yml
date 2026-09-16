@@ -1,0 +1,24 @@
+##########
+# Experience
+##########
+
+- title: "Research Intern"
+  institution: "MINIMAX"
+  location: "Hong Kong"
+  date_start: "2025-02"
+  date_end: "Present"
+  description: "Research in natural language processing and machine learning."
+
+- title: "Research Intern"
+  institution: "Tencent WXG"
+  location: "Shenzhen, China"
+  date_start: "2024-06"
+  date_end: "2024-09"
+  description: "Research on vision-language models and chart understanding."
+
+- title: "Research Intern"
+  institution: "Shanghai AI Lab"
+  location: "Shanghai, China"
+  date_start: "2023-06"
+  date_end: "2023-12"
+  description: "Research on large language model truthfulness and interpretability."
