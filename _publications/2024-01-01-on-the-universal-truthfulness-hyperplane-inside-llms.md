@@ -6,10 +6,11 @@ permalink: /publication/2024-01-01-on-the-universal-truthfulness-hyperplane-insi
 date: 2024-01-01
 excerpt: "Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He (2024). On the universal truthfulness hyperplane inside large language models. EMNLP 2024."
 venue: "EMNLP 2024"
-paperurl: "https://github.com/about"
 citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He (2024). "On the Universal Truthfulness Hyperplane Inside LLMs". EMNLP 2024.'
 ---
 
-On the Universal Truthfulness Hyperplane Inside LLMs. First author: Junteng Liu. Shiqi Chen, Yu Cheng, Junxian He. Published at EMNLP 2024.
+On the Universal Truthfulness Hyperplane Inside LLMs. First author: Junteng Liu. Shiqi Chen, Yu Cheng, Junxian He.
+
+Published at EMNLP 2024.
 
 Code is available at [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane).
